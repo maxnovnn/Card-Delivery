@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/v2wcyrsbpg7qbla9?svg=true)](https://ci.appveyor.com/project/maxnovnn/card-delivery)
